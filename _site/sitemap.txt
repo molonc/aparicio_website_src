@@ -4,6 +4,7 @@ http://shahlab.ca/atom.xml
 http://shahlab.ca/careers
 http://shahlab.ca/categories
 http://shahlab.ca/contact
+http://shahlab.ca/blog/
 http://shahlab.ca/misc/
 http://shahlab.ca/papers/
 http://shahlab.ca/team/
@@ -18,7 +19,7 @@ http://shahlab.ca/assets/css/style.css
 http://shahlab.ca/staff_Poster
 http://shahlab.ca/redirects.json
 
-http://shahlab.ca/papers/33257764
+http://shahlab.ca/blog/Post1
 http://shahlab.ca/papers/32966276
 http://shahlab.ca/papers/32958763
 http://shahlab.ca/papers/32910476
@@ -184,7 +185,6 @@ http://shahlab.ca/team/Ismat-Zerin
 http://shahlab.ca/team/Elena-Zaikova
 http://shahlab.ca/team/Damian-Yap
 http://shahlab.ca/team/Hong-Xu
-http://shahlab.ca/team/Guo-Yu-(Gordon)-Wu
 http://shahlab.ca/team/Jecy-(Beixi)-Wang
 http://shahlab.ca/team/Adrian-Wan
 http://shahlab.ca/team/Jerome-Ting
@@ -197,7 +197,6 @@ http://shahlab.ca/team/Noah-Malchy
 http://shahlab.ca/team/So-Ra-Lee
 http://shahlab.ca/team/Esther-Kong
 http://shahlab.ca/team/Daniel-Lai
-http://shahlab.ca/team/Cynthia-Ferguson
 http://shahlab.ca/team/Peter-Eirew
 http://shahlab.ca/team/Viviana-Cerda-Llanos
 http://shahlab.ca/team/Sean-Beatty
@@ -212,5 +211,4 @@ http://shahlab.ca/stories/Andrew-Roth
 http://shahlab.ca/stories/Adi-Steif
 http://shahlab.ca/team/Cherie-Bates
 http://shahlab.ca/team/Mirela-Andronescu
-http://shahlab.ca/team/Example-Person
 http://shahlab.ca/team/Aparicio-Samuel

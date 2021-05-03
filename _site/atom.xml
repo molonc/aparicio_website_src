@@ -4,7 +4,7 @@
  <title>Aparicio Lab</title>
  <link href="http://shahlab.ca/" rel="self"/>
  <link href="http://shahlab.ca"/>
- <updated>2021-04-29T16:35:58-07:00</updated>
+ <updated>2021-05-03T11:07:55-07:00</updated>
  <id>http://shahlab.ca</id>
  <author>
    <name>Dr. Samuel Aparicio</name>
@@ -13,17 +13,19 @@
 
  
  <entry>
-   <title>Author Correction: Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples.</title>
-   <link href="http://shahlab.ca/papers/33257764"/>
-   <updated>2020-12-02T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/papers/33257764</id>
-   <content type="html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div data-badge-popover=&quot;right&quot; data-badge-type=&quot;donut&quot; data-pmid=&quot;33257764&quot; data-hide-no-mentions=&quot;true&quot; class=&quot;altmetric-embed&quot;&gt;&lt;/div&gt;
+   <title>Blog post title</title>
+   <link href="http://shahlab.ca/blog/Post1"/>
+   <updated>2021-04-29T00:00:00-07:00</updated>
+   <id>http://shahlab.ca/blog/Post1</id>
+   <content type="html">&lt;p&gt;This is an example blog post on the Aparicio site.&lt;/p&gt;
 
-&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate, arcu sed pretium pellentesque, diam elit iaculis mauris, sed vestibulum massa nisl ac dui.&lt;/p&gt;
 
-&lt;p&gt;Correction to this paper has been published: https://doi.org/10.1038/s41467-020-20128-w.&lt;/p&gt;
+&lt;p&gt;Aliquam hendrerit purus arcu, eu feugiat ligula pulvinar fermentum. Sed eu orci quis dui tempor fringilla. Morbi a odio eu nisi egestas semper et at urna. Sed at mi posuere, viverra ex non, euismod tellus. Mauris lacinia purus in elit hendrerit, eget convallis lectus sollicitudin. Quisque erat ex, faucibus vel interdum at, feugiat vitae justo. Proin velit felis, accumsan nec sagittis blandit, lacinia quis sapien. Nullam iaculis facilisis turpis in placerat.&lt;/p&gt;
 
+&lt;p&gt;Donec arcu nisi, pulvinar nec risus a, interdum congue augue. Donec a varius purus. Ut lacinia dolor ac facilisis posuere. Ut risus odio, placerat sed dolor eu, hendrerit faucibus purus. Donec efficitur auctor tincidunt. Nunc rutrum aliquet ex sed aliquet. Quisque tristique, sapien sed pretium hendrerit, risus orci suscipit dui, ac sollicitudin turpis nibh convallis est. Morbi suscipit purus et aliquet rhoncus. Donec id ante neque. Aliquam tincidunt ex eget tortor interdum, et venenatis tortor ornare. Pellentesque dui ipsum, lacinia sed urna et, congue consectetur leo. Sed placerat fringilla dignissim. Fusce justo massa, luctus at tincidunt eget, mollis non felis. Phasellus vitae metus eu justo feugiat varius ut in est. Fusce et scelerisque urna.&lt;/p&gt;
+
+&lt;p&gt;Vivamus suscipit vehicula erat, eget ullamcorper purus finibus ut. Phasellus sed lacus finibus, consequat metus sagittis, aliquet quam. Aliquam ac justo sodales, luctus lorem porta, bibendum purus. Sed fringilla dui vitae eros laoreet, a scelerisque elit sollicitudin. Cras rutrum magna vel dui consectetur fermentum non nec turpis. Sed auctor mauris sit amet nisl blandit, volutpat consequat augue molestie. Mauris eleifend, ligula ac volutpat congue, lorem purus tincidunt massa, vitae posuere nisl nisl eu tellus. Aliquam eget viverra diam. Ut id consequat ex, vel tempus nibh. Curabitur et feugiat sapien. Aenean quis gravida massa. Nulla facilisi. Aliquam nec lacus quis nibh commodo volutpat.&lt;/p&gt;
 </content>
  </entry>
  
@@ -1961,7 +1963,7 @@ The UBC Faculty of Medicine provides innovative educational and research program
  </entry>
  
  <entry>
-   <title>A novel SND1-BRAF fusion confers resistance to c-Met inhibitor PF-04217903 in GTL16 cells through [corrected] MAPK activation.</title>
+   <title>A novel SND1-BRAF fusion confers resistance to c-Met inhibitor PF-04217903 in GTL16 cells through MAPK activation.</title>
    <link href="http://shahlab.ca/papers/22745804"/>
    <updated>2012-06-30T00:00:00-07:00</updated>
    <id>http://shahlab.ca/papers/22745804</id>
@@ -3056,15 +3058,6 @@ research focus on single-cell computational and system immunology. In January 20
  </entry>
  
  <entry>
-   <title>Guo Yu (Gordon) Wu</title>
-   <link href="http://shahlab.ca/team/Guo-Yu-(Gordon)-Wu"/>
-   <updated>2000-01-22T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/team/Guo Yu (Gordon) Wu</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
    <title>Jecy (Beixi) Wang</title>
    <link href="http://shahlab.ca/team/Jecy-(Beixi)-Wang"/>
    <updated>2000-01-21T00:00:00-08:00</updated>
@@ -3168,16 +3161,7 @@ research focus on single-cell computational and system immunology. In January 20
    <link href="http://shahlab.ca/team/Daniel-Lai"/>
    <updated>2000-01-09T00:00:00-08:00</updated>
    <id>http://shahlab.ca/team/Daniel Lai</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Cynthia Ferguson</title>
-   <link href="http://shahlab.ca/team/Cynthia-Ferguson"/>
-   <updated>2000-01-08T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/team/Cynthia Ferguson</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;Hello World!&lt;/p&gt;
 </content>
  </entry>
  
@@ -3340,15 +3324,6 @@ I have experience in continuous integration/unit testing in production based wor
    <link href="http://shahlab.ca/team/Mirela-Andronescu"/>
    <updated>2000-01-02T00:00:00-08:00</updated>
    <id>http://shahlab.ca/team/Mirela Andronescu</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Example Person</title>
-   <link href="http://shahlab.ca/team/Example-Person"/>
-   <updated>2000-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/team/Example-Person</id>
    <content type="html">
 </content>
  </entry>

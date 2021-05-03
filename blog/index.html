@@ -1,0 +1,61 @@
+---
+layout: default
+title: "Blog"
+description: "Blog posts"
+group: navigation
+navorder: 5
+---
+{% include JB/setup %}
+
+<div class="bigspacer"></div>
+<div>
+{% for page in site.categories.blog reversed %}
+	{% cycle 'add rows': '<div class="row">', '', '' %}
+		<div class="col-md-10 memberbox" style = "padding:15px;">
+			<div class="media">
+				<div class="card media-body">
+					<div class="head media-heading" style="padding: 10px;">
+						<a href="{{ page.url }}" class="off h1 page-header" style="padding: 5px 0px; text-decoration:none;font-weight: bold;">{{ page.title }}</a>
+						{% if page.tagline %}
+							<p class="h3" style='padding: 5px 0px;'>{{ page.tagline }}</p>
+						{% endif %}
+						<div class="card-body" style='max-width: 150px;'>
+							<div class="h6 d-inline-block card-text text-truncate" style='margin: 10px; text-overflow: ellipsis;'>{{ page.content }}</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	{% cycle 'close rows': '', '', '</div>' %}
+{% endfor %}
+</div>
+
+
+
+<hr />
+<!--
+<div class="bigtitle text-center">Alumni</div>
+<div class="bigspacer"></div>
+
+{% for member in site.categories.team reversed %}
+	{% if member.alum == true %}
+		{% cycle 'add alum rows': '<div class="row">', '', '' %}
+			<div class="col-md-4 memberbox">
+				<div class="media">
+					<a class="pull-left" href="{{ member.url }}">
+						<img width="150" class="media-object" src="{{ member.image }}">
+					</a>
+					<div class="media-body">
+						<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+						<p class="note">{{ member.position }}</p>
+						<p class="note"><a href="{{ member.link }}" class="off">{{ member.current }}</a></p>
+					</div>
+				</div>
+				<div class="bigspacer"></div>
+				<div class="bigspacer"></div>
+			</div>
+		{% cycle 'close alum rows': '', '', '</div>' %}
+	{% endif %}
+{% endfor %}
+-->
+<div class="bigspacer"></div>

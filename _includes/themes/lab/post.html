@@ -1,5 +1,9 @@
 <div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+  <h1>{{ page.title }} 
+  </h1>
+    {% if page.tagline %}
+    <p class="h3" style='padding: 5px 0px;'>{{ page.tagline }}</p>
+    {% endif %}
 </div>
 
 {% for member in site.categories.team %}
@@ -11,7 +15,6 @@
 
 <div class="row post-full">
   <div class="col-md-2">
-    <div class="bigspacer"></div>
     <div class="glyphbox note"> <!-- DAD: what is this--> 
         <div class="smallhead">
           {{ page.date | date_to_string }}

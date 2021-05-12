@@ -159,16 +159,61 @@ title: Home
 	</div>
 	
 	<div class="col-sm-4">
+
 		<div class="feedbox pad-left">
+			
 			<div class="head">
-				<a class="off" href="https://twitter.com/sajraparicio " style="text-decoration:none;">
-					Tweets
+				<a class="off" style="text-decoration:none;">
+					Blog
 				</a>
 			</div>
 			<div class="bigspacer"></div>
-			<a class="twitter-timeline" data-theme="light" data-chrome="noheader nofooter transparent noborders" data-tweet-limit="2" href="https://twitter.com/sajraparicio">Tweets by Samuel Aparicio</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+			
+
+
+			{% for page in site.categories.blog limit:4 %}
+				<div class="note-title panel panel-default">
+				<!--	<img src = {{ paper.image }} width="100"> -->
+					<div>
+						<!-- <i class="fa fa-pencil" href = "" style='margin: 5px'></i> -->
+						<a class="off" style='text-decoration: none;' href="{{ page.url }}">
+							{{ page.title }}
+						</a>
+					</div>
+					<div class='shortref note'>
+						{{ page.tagline }}
+					</div>
+
+					{% for member in site.categories.team %}
+						{% if member.title == page.author_handle %}
+							{% assign author = member %}
+						{% else %}
+							{% assign author = false %}
+						{% endif %}
+					{% endfor %}
+				
+					<div class="smallspacer"></div>
+					<div class="smallnote">
+						{% if author %}
+							by <a class="off" href="{{ author.url }}">{{ author.title }}</a>
+
+						{% else %}
+							{% if page.author_handle %}
+							by <a class="off" style="text-decoration:none;">{{ page.author_handle }}</a>
+							{% endif %}
+						{% endif %}
+						<div class="smallspacer"></div>
+
+						{{ page.date | date_to_string }}
+					</div>
+
+				</div>
+				<br>
+
+			{% endfor %}
 		</div>
 		<div class="bigspacer"></div>
+
 	</div>
 </div>
 

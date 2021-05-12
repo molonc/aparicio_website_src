@@ -19,6 +19,7 @@ http://shahlab.ca/assets/css/style.css
 http://shahlab.ca/staff_Poster
 http://shahlab.ca/redirects.json
 
+http://shahlab.ca/blog/Post2
 http://shahlab.ca/blog/Post1
 http://shahlab.ca/papers/32966276
 http://shahlab.ca/papers/32958763

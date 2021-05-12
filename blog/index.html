@@ -7,11 +7,13 @@ navorder: 5
 ---
 {% include JB/setup %}
 
+
+
 <div class="bigspacer"></div>
 <div>
 {% for page in site.categories.blog reversed %}
 	{% cycle 'add rows': '<div class="row">', '', '' %}
-		<div class="col-md-10 memberbox" style = "padding:15px;">
+		<div class="col-md-4 memberbox" style = "padding:15px;">
 			<div class="media">
 				<div class="card media-body">
 					<div class="head media-heading" style="padding: 10px;">
@@ -19,9 +21,36 @@ navorder: 5
 						{% if page.tagline %}
 							<p class="h3" style='padding: 5px 0px;'>{{ page.tagline }}</p>
 						{% endif %}
+						
+						{% for member in site.categories.team %}
+							{% if member.title == page.author_handle %}
+								{% assign author = member %}
+							{% else %}
+								{% assign author = false %}
+							{% endif %}
+						{% endfor %}
+						
+
+						<div class="smallhead">
+							{% if author %}
+								by <a class="off" href="{{ author.url }}">{{ author.title }}</a>
+
+							{% else %}
+								{% if page.author_handle %}
+								by <a class="off" style="text-decoration:none;">{{ page.author_handle }}</a>
+								{% endif %}
+							{% endif %}
+							<div class="smallspacer"></div>
+							{{ page.date | date_to_string }}  
+						</div>
+
+
+			
+						<!--
 						<div class="card-body" style='max-width: 150px;'>
 							<div class="h6 d-inline-block card-text text-truncate" style='margin: 10px; text-overflow: ellipsis;'>{{ page.content }}</div>
 						</div>
+						-->
 					</div>
 				</div>
 			</div>

@@ -4,3 +4,6 @@ theme :
 ---
 {% include JB/setup %}
 {% include themes/lab/default.html %}
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}

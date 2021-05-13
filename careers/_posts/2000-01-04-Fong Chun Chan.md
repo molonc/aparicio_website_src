@@ -2,6 +2,7 @@
 layout: member
 title: Fong Chun Chan
 position: Principal Bioinformatics Scientist, Achilles Therapeutics
+alum: true
 email: 
 scholar: 
 image: /assets/images/team/Chan-Fong-Chun.jpeg

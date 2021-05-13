@@ -2,6 +2,7 @@
 layout: member
 title: Sohrab Shah
 position: Head, Shah Lab
+alum: true
 email: 
 scholar: 
 image: /assets/images/team/Shah-Sohrab.jpeg

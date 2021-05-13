@@ -60,7 +60,7 @@ navorder: 1
 
 	<div class="accordion accordion-flush" id="accordionFlushExample">
 
-		{% for job in site.categories.misc %}
+		{% for job in site.categories.careers %}
 			{% if job.job==true %}
 				<div class="accordion-item">
 					<h2 class="accordion-header" id= "{{ job.title }}">
@@ -160,7 +160,8 @@ navorder: 1
 -->
 
 <div>
-	{% for member in site.categories.stories %}
+	{% for member in site.categories.careers %}
+		{% if member.alum == true %}
 		{% cycle 'add rows': '<div class="row">', '', '' %}
 			<div class="col-md-4 memberbox" style = "padding: 15px;">
 				<div class="media">
@@ -176,6 +177,7 @@ navorder: 1
 				</div>
 			</div>
 		{% cycle 'close rows': '', '', '</div>' %}
+		{% endif %}
 	{% endfor %}
 </div>
 

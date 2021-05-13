@@ -2,6 +2,7 @@
 layout: member
 title: Gholamreza (Reza) Haffari
 position: Associate Professor, Monash University
+alum: true
 email: 
 scholar: 
 image: /assets/images/team/Haffari-Gholamreza.jpeg

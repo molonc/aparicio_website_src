@@ -4,7 +4,7 @@
  <title>Aparicio Lab</title>
  <link href="http://shahlab.ca/" rel="self"/>
  <link href="http://shahlab.ca"/>
- <updated>2021-05-04T11:45:10-07:00</updated>
+ <updated>2021-05-13T12:48:56-07:00</updated>
  <id>http://shahlab.ca</id>
  <author>
    <name>Dr. Samuel Aparicio</name>
@@ -14,35 +14,10 @@
  
  <entry>
    <title>The Aparicio Website</title>
-   <link href="http://shahlab.ca/blog/Post2"/>
-   <updated>2021-05-03T00:00:00-07:00</updated>
-   <id>http://shahlab.ca/blog/Post2</id>
-   <content type="html">&lt;p&gt;This is an example blog post on the Aparicio site.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate, arcu sed pretium pellentesque, diam elit iaculis mauris, sed vestibulum massa nisl ac dui.&lt;/p&gt;
-
-&lt;p&gt;Aliquam hendrerit purus arcu, eu feugiat ligula pulvinar fermentum. Sed eu orci quis dui tempor fringilla. Morbi a odio eu nisi egestas semper et at urna. Sed at mi posuere, viverra ex non, euismod tellus. Mauris lacinia purus in elit hendrerit, eget convallis lectus sollicitudin. Quisque erat ex, faucibus vel interdum at, feugiat vitae justo. Proin velit felis, accumsan nec sagittis blandit, lacinia quis sapien. Nullam iaculis facilisis turpis in placerat.&lt;/p&gt;
-
-&lt;p&gt;Donec arcu nisi, pulvinar nec risus a, interdum congue augue. Donec a varius purus. Ut lacinia dolor ac facilisis posuere. Ut risus odio, placerat sed dolor eu, hendrerit faucibus purus. Donec efficitur auctor tincidunt. Nunc rutrum aliquet ex sed aliquet. Quisque tristique, sapien sed pretium hendrerit, risus orci suscipit dui, ac sollicitudin turpis nibh convallis est. Morbi suscipit purus et aliquet rhoncus. Donec id ante neque. Aliquam tincidunt ex eget tortor interdum, et venenatis tortor ornare. Pellentesque dui ipsum, lacinia sed urna et, congue consectetur leo. Sed placerat fringilla dignissim. Fusce justo massa, luctus at tincidunt eget, mollis non felis. Phasellus vitae metus eu justo feugiat varius ut in est. Fusce et scelerisque urna.&lt;/p&gt;
-
-&lt;p&gt;Vivamus suscipit vehicula erat, eget ullamcorper purus finibus ut. Phasellus sed lacus finibus, consequat metus sagittis, aliquet quam. Aliquam ac justo sodales, luctus lorem porta, bibendum purus. Sed fringilla dui vitae eros laoreet, a scelerisque elit sollicitudin. Cras rutrum magna vel dui consectetur fermentum non nec turpis. Sed auctor mauris sit amet nisl blandit, volutpat consequat augue molestie. Mauris eleifend, ligula ac volutpat congue, lorem purus tincidunt massa, vitae posuere nisl nisl eu tellus. Aliquam eget viverra diam. Ut id consequat ex, vel tempus nibh. Curabitur et feugiat sapien. Aenean quis gravida massa. Nulla facilisi. Aliquam nec lacus quis nibh commodo volutpat.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Welcome to the Aparicio Lab</title>
    <link href="http://shahlab.ca/blog/Post1"/>
-   <updated>2021-04-29T00:00:00-07:00</updated>
+   <updated>2021-05-03T00:00:00-07:00</updated>
    <id>http://shahlab.ca/blog/Post1</id>
-   <content type="html">&lt;p&gt;This is an example blog post on the Aparicio site.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate, arcu sed pretium pellentesque, diam elit iaculis mauris, sed vestibulum massa nisl ac dui.&lt;/p&gt;
-
-&lt;p&gt;Aliquam hendrerit purus arcu, eu feugiat ligula pulvinar fermentum. Sed eu orci quis dui tempor fringilla. Morbi a odio eu nisi egestas semper et at urna. Sed at mi posuere, viverra ex non, euismod tellus. Mauris lacinia purus in elit hendrerit, eget convallis lectus sollicitudin. Quisque erat ex, faucibus vel interdum at, feugiat vitae justo. Proin velit felis, accumsan nec sagittis blandit, lacinia quis sapien. Nullam iaculis facilisis turpis in placerat.&lt;/p&gt;
-
-&lt;p&gt;Donec arcu nisi, pulvinar nec risus a, interdum congue augue. Donec a varius purus. Ut lacinia dolor ac facilisis posuere. Ut risus odio, placerat sed dolor eu, hendrerit faucibus purus. Donec efficitur auctor tincidunt. Nunc rutrum aliquet ex sed aliquet. Quisque tristique, sapien sed pretium hendrerit, risus orci suscipit dui, ac sollicitudin turpis nibh convallis est. Morbi suscipit purus et aliquet rhoncus. Donec id ante neque. Aliquam tincidunt ex eget tortor interdum, et venenatis tortor ornare. Pellentesque dui ipsum, lacinia sed urna et, congue consectetur leo. Sed placerat fringilla dignissim. Fusce justo massa, luctus at tincidunt eget, mollis non felis. Phasellus vitae metus eu justo feugiat varius ut in est. Fusce et scelerisque urna.&lt;/p&gt;
-
-&lt;p&gt;Vivamus suscipit vehicula erat, eget ullamcorper purus finibus ut. Phasellus sed lacus finibus, consequat metus sagittis, aliquet quam. Aliquam ac justo sodales, luctus lorem porta, bibendum purus. Sed fringilla dui vitae eros laoreet, a scelerisque elit sollicitudin. Cras rutrum magna vel dui consectetur fermentum non nec turpis. Sed auctor mauris sit amet nisl blandit, volutpat consequat augue molestie. Mauris eleifend, ligula ac volutpat congue, lorem purus tincidunt massa, vitae posuere nisl nisl eu tellus. Aliquam eget viverra diam. Ut id consequat ex, vel tempus nibh. Curabitur et feugiat sapien. Aenean quis gravida massa. Nulla facilisi. Aliquam nec lacus quis nibh commodo volutpat.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Welcome to the Aparicio Lab website. This website was created as an extension of the BCCRC website (https://www.bccrc.ca/dept/mo/labs/aparicio-lab), and a database for the Aparicio Lab’s staff, job postings, and papers.&lt;/p&gt;
 </content>
  </entry>
  
@@ -172,9 +147,9 @@ authors:&lt;/p&gt;
  
  <entry>
    <title>Post-doctoral Fellow</title>
-   <link href="http://shahlab.ca/misc/jobOpening7"/>
+   <link href="http://shahlab.ca/careers/misc/jobOpening7"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/jobOpening7</id>
+   <id>http://shahlab.ca/careers/misc/jobOpening7</id>
    <content type="html">&lt;p&gt;Posting is available immediately for a postdoctoral fellow with experience in cancer bioinformatics to work on an exciting new program developing non-invasive patient genomic monitoring. The successful candidate will have a degree and postgraduate training in bioinformatics, computer science, statistics, or allied subjects, with experience applying modern computational genome analysis methods. The post holder will work jointly with the groups of Dr Samuel Aparicio (UBC and BC Cancer) &amp;amp;  Dr Andrew Roth (UBC Computer Science and BC Cancer) on developing and implementing methods for analysis of genomic sequencing information from plasma and other fluids to monitor tumour burden and provide information for screening of high risk patients. This will be in conjunction with existing work on single cell genome analysis pioneered by the Aparicio and Shah labs in the last 5 years.&lt;/p&gt;
 
 &lt;p&gt;How to Apply:
@@ -189,9 +164,9 @@ Work Sample&lt;/p&gt;
  
  <entry>
    <title>Postdoctoral fellow, Bioinformatics</title>
-   <link href="http://shahlab.ca/misc/jobOpening6"/>
+   <link href="http://shahlab.ca/careers/misc/jobOpening6"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/jobOpening6</id>
+   <id>http://shahlab.ca/careers/misc/jobOpening6</id>
    <content type="html">&lt;p&gt;Job Summary&lt;/p&gt;
 
 &lt;p&gt;The candidate would work within a dynamic and vibrant lab with a proven track record of outstanding achievements and contributions in breast oncology research. This position allows the candidate to contribute bold and innovative research that can be translated to new understanding in the evolutionary processes that drive cancers.&lt;/p&gt;
@@ -254,9 +229,9 @@ How to Apply&lt;/p&gt;
  
  <entry>
    <title>Research Asst/Tech 4</title>
-   <link href="http://shahlab.ca/misc/jobOpening5"/>
+   <link href="http://shahlab.ca/careers/misc/jobOpening5"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/jobOpening5</id>
+   <id>http://shahlab.ca/careers/misc/jobOpening5</id>
    <content type="html">&lt;p&gt;Job Summary
 Researchers in the Department of Molecular Oncology at the BC Cancer Research Institute uses the latest technologies to rapidly identify genes that are involved in the development of cancer. This senior position will be involved with working on the Single Cell genomics project, in addition, providing general technical support in molecular biology, biochemistry, microscopy and robotics for other current on-going research projects in the lab.&lt;/p&gt;
 
@@ -311,9 +286,9 @@ To apply: Please send cover letter and resume to careersmolonc@bccrc.ca  – Ple
  
  <entry>
    <title>Research Asst/Tech 3</title>
-   <link href="http://shahlab.ca/misc/jobOpening4"/>
+   <link href="http://shahlab.ca/careers/misc/jobOpening4"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/jobOpening4</id>
+   <id>http://shahlab.ca/careers/misc/jobOpening4</id>
    <content type="html">&lt;p&gt;Job Summary
 Researchers in the Department of Molecular Oncology at the BC Cancer Research Institute uses the latest technologies to rapidly identify genes that are involved in the development of cancer. This position will be involved in providing technical support in molecular biology, biochemistry, microscopy and robotics for current on-going research projects in the lab.&lt;/p&gt;
 
@@ -362,9 +337,9 @@ To apply: Please send cover letter and resume to careersmolonc@bccrc.ca  – Ple
  
  <entry>
    <title>Research Administration Coordinator</title>
-   <link href="http://shahlab.ca/misc/jobOpening3"/>
+   <link href="http://shahlab.ca/careers/misc/jobOpening3"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/jobOpening3</id>
+   <id>http://shahlab.ca/careers/misc/jobOpening3</id>
    <content type="html">&lt;p&gt;Job Summary&lt;/p&gt;
 
 &lt;p&gt;In accordance with the Mission, Vision and Values, and strategic directions of Provincial Health Services Authority patient safety is a priority and a responsibility shared by everyone at PHSA, and as such, the requirement to continuously improve quality and safety is inherent in all aspects of this position.&lt;/p&gt;
@@ -393,9 +368,9 @@ Strong interpersonal and communication skills and the ability to demonstrate goo
  
  <entry>
    <title>Post-doctoral Fellow (PDF) Single Cell Genomics, Molecular Biology</title>
-   <link href="http://shahlab.ca/misc/jobOpening2"/>
+   <link href="http://shahlab.ca/careers/misc/jobOpening2"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/jobOpening2</id>
+   <id>http://shahlab.ca/careers/misc/jobOpening2</id>
    <content type="html">&lt;p&gt;We are seeking a highly-motivated post-doctoral fellow (PDF) with strong leadership ability and expertise in single cell genomics and transcriptomics, and a strong background in molecular biology. The successful applicant will work full-time under the supervision of Dr. Samuel Aparicio. The position start date is flexible.&lt;/p&gt;
 
 &lt;p&gt;JOB SUMMARY:&lt;/p&gt;
@@ -451,9 +426,9 @@ To apply: Please send your Cover Letter, CV, Transcript and Work Sample to caree
  
  <entry>
    <title>Cloud Engineer, Programmer, Architect (Microsoft Azure)</title>
-   <link href="http://shahlab.ca/misc/jobOpening1"/>
+   <link href="http://shahlab.ca/careers/misc/jobOpening1"/>
    <updated>2020-01-01T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/misc/jobOpening1</id>
+   <id>http://shahlab.ca/careers/misc/jobOpening1</id>
    <content type="html">&lt;p&gt;JOB SUMMARY&lt;/p&gt;
 
 &lt;p&gt;A position is open immediately for a cloud engineer to work with our interdisciplinary team of researchers and software developers at the BC Cancer Research, a non-profit research centre under the Provincial Health Services Authority and University of British Columbia. We are seeking a passionate individual to join a team of programmers and data scientists currently developing cloud-based software solutions and services to help accelerate academic research for the Molecular Oncology Department at BC Cancer.  Our group currently handles petabytes of digital patient data from thousands of individuals and samples, and face exciting challenges in performance, scalability, security, user experience and optimization. The successful candidate will work closely with researchers and programmers to design and implement best solutions utilizing cloud infrastructure and services for existing and novel problems.  Ideal candidates will demonstrate experience in designing and deploying effective cloud solutions to existing and novel computational, networking and storage challenges.&lt;/p&gt;
@@ -3213,9 +3188,9 @@ research focus on single-cell computational and system immunology. In January 20
  
  <entry>
    <title>Sohrab Shah</title>
-   <link href="http://shahlab.ca/stories/Sohrab-Shah"/>
+   <link href="http://shahlab.ca/careers/Sohrab-Shah"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Sohrab Shah</id>
+   <id>http://shahlab.ca/careers/Sohrab Shah</id>
    <content type="html">&lt;p&gt;Sohrab Shah received a PhD in computer science from UBC in 2008 and was appointed as a Principal Investigator to The BC Cancer Agency and the University of British Columbia in 2010. As well, Dr. Shah was appointed to MSK in April 2018 as the inaugural Chief of the Computational Oncology Service and is the incumbent of the Nicholls-Biondi Chair. He held the Canada Research Chair in Computational Cancer Genomics, and was the recipient of both a Michael Smith Foundation for Health Research Career Investigator Award and a Terry Fox Research Institute New Investigator Award. His research focuses on understanding how tumours evolve over time through integrative approaches involving genomics and computational modeling. Dr. Shah has pioneered computational methods and software for inference of mutations in cancer genomes as well as deciphering patterns of cancer evolution which have been widely disseminated internationally. He has a track record of developing novel, innovative Bayesian statistical models, algorithms, and computational approaches to analyze large, high dimensional genomics and transcriptomic data sets, from both patient tumours and model systems. This includes advancing molecular profiling of cancer cells at single cell resolution. Dr. Shah has been at the forefront of studying tumor evolution in breast, ovary and lymphoid malignancies. His work has been published in Nature, Nature Genetics, Nature Methods, NEJM, Genome Research, Genome Biology, amongst others. Dr. Shah oversees an annual budget of &amp;gt;$1M in competitively awarded funding from philanthropic, government and international bodies.&lt;/p&gt;
 
 &lt;p&gt;Dr. Shah has trained several highly productive PhD graduates whom have gone on to positions at Harvard Medical School, Oxford University Statistics and the Broad Institute of MIT. His trainees include 2 Vanier scholars and 1 Michael Smith Foundation for Heath Research postdoctoral fellow.  He was honoured with the Distinguished Achievement Award for Overall Excellence – Early Career. Fac. of Med UBC (2013), and was named a Killam Laureate recognizing outstanding research and scholarly contributions at University of British Columbia (2016).&lt;/p&gt;
@@ -3226,9 +3201,9 @@ research focus on single-cell computational and system immunology. In January 20
  
  <entry>
    <title>Gholamreza (Reza) Haffari</title>
-   <link href="http://shahlab.ca/stories/Reza-Haffari"/>
+   <link href="http://shahlab.ca/careers/Reza-Haffari"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Reza Haffari</id>
+   <id>http://shahlab.ca/careers/Reza Haffari</id>
    <content type="html">&lt;p&gt;Reza’s work is focused on Artificial Intelligence (AI), particularly in low-level perception and high-level reasoning under uncertainty, mainly from text and potentially from other data modalities such as vision and speech. His research tackles problems such as:&lt;/p&gt;
 
 &lt;p&gt;Understanding and generating natural language text eg translating documents from one language to another while keeping the document’s coherency/semantics intact.&lt;/p&gt;
@@ -3243,27 +3218,27 @@ research focus on single-cell computational and system immunology. In January 20
  
  <entry>
    <title>Jiarui Ding</title>
-   <link href="http://shahlab.ca/stories/Jiarui-Ding"/>
+   <link href="http://shahlab.ca/careers/Jiarui-Ding"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Jiarui Ding</id>
+   <id>http://shahlab.ca/careers/Jiarui Ding</id>
    <content type="html">&lt;p&gt;Jiarui Ding Bio&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Hossein Farahani</title>
-   <link href="http://shahlab.ca/stories/Hossein-Farahani"/>
+   <link href="http://shahlab.ca/careers/Hossein-Farahani"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Hossein Farahani</id>
+   <id>http://shahlab.ca/careers/Hossein Farahani</id>
    <content type="html">&lt;p&gt;Hossein Farahani Bio&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Gavin Ha</title>
-   <link href="http://shahlab.ca/stories/Gavin-Ha"/>
+   <link href="http://shahlab.ca/careers/Gavin-Ha"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Gavin Ha</id>
+   <id>http://shahlab.ca/careers/Gavin Ha</id>
    <content type="html">&lt;p&gt;Dr. Gavin Ha is a computational biologist who studies the role of genomic alterations in cancer. He and his research team focus on developing and applying computational methods to profile cancer genomes from patient tumors and blood. His laboratory develops novel approaches to study cell-free DNA released from tumor cells into the blood (also known as circulating tumor DNA). The use of this approach, called “liquid biopsies,” combined with insights from tumor genome analysis, will be critical to uncover causes of treatment resistance, discover novel genetic biomarkers from the blood, and develop non-invasive applications for cancer precision medicine.&lt;/p&gt;
 
 &lt;p&gt;Bio from https://www.fredhutch.org/en/faculty-lab-directory/ha-gavin.html&lt;/p&gt;
@@ -3272,9 +3247,9 @@ research focus on single-cell computational and system immunology. In January 20
  
  <entry>
    <title>Fong Chun Chan</title>
-   <link href="http://shahlab.ca/stories/Fong-Chun-Chan"/>
+   <link href="http://shahlab.ca/careers/Fong-Chun-Chan"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Fong Chun Chan</id>
+   <id>http://shahlab.ca/careers/Fong Chun Chan</id>
    <content type="html">&lt;p&gt;I am currently a Principal Bioinformatics Scientist at Achilles Therapeutics. My primary focus has been to develop an industry-grade immunotherapy/immunogenomics pipeline (based on the TRACERx pipeline pioneered from Charles Swanton’s lab) that identifies clonal neo-antigens that can elicit antitumor responses. In particular, I am spearheading the research and improvements on copy number profiling, clonal mutation detection, and neoantigen generation.&lt;/p&gt;
 
 &lt;p&gt;I completed my Bioinformatics PhD in 2017 under the co-supervision of Dr. Sohrab Shah and Dr. Christian Steidl studying tumour heterogeneity and its implications on disease progression in B-cell lymphomas. In particular, how tumour evolution plays a role in treatment resistance and how understanding this process may aid in the determination of relevant and precise therapeutic approaches for each cancer patient. Throughout my PhD and industry experience, I have acquired experience/skills in the following specific areas:&lt;/p&gt;
@@ -3296,9 +3271,9 @@ I have experience in continuous integration/unit testing in production based wor
  
  <entry>
    <title>Camila de Souza</title>
-   <link href="http://shahlab.ca/stories/Camila-de-Souza"/>
+   <link href="http://shahlab.ca/careers/Camila-de-Souza"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Camila de Souza</id>
+   <id>http://shahlab.ca/careers/Camila de Souza</id>
    <content type="html">&lt;p&gt;My research program consists of developing new statistical methods to analyze large and complex data structures arising from various areas in the Natural Sciences, Health, and Engineering. I conduct research on techniques involving clustering, hierarchical mixture models, mixed effect models, hidden Markov models, nonparametric regression, semi-parametric models, expectation-maximization (EM) algorithm, and Bayesian variational inference. I am particularly interested in applications comprising single-cell sequencing data, and electrical energy consumption data.&lt;/p&gt;
 
 &lt;p&gt;Bio from https://www.uwo.ca/stats/people/bios/camila-de-souza.html&lt;/p&gt;
@@ -3307,18 +3282,18 @@ I have experience in continuous integration/unit testing in production based wor
  
  <entry>
    <title>Andrew Roth</title>
-   <link href="http://shahlab.ca/stories/Andrew-Roth"/>
+   <link href="http://shahlab.ca/careers/Andrew-Roth"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Andrew Roth</id>
+   <id>http://shahlab.ca/careers/Andrew Roth</id>
    <content type="html">&lt;p&gt;Dr. Andrew Roth, PhD (UBC) is an assistant professor in the Departments of Pathology and Laboratory Medicine, and Computer Science. His interdisciplinary research focuses on the application of statistical machine learning to problems in high dimensional cancer biology. This research program encompasses the development of computational methods for studying clonal population structures and tumour evolution, as well as methodological work in computational statistics. His work in computational biology has been published in Nature Methods and applied in high profile studies of breast and ovarian cancer published in Nature and Nature Genetics. Dr. Roth will provide expertise in bioinformatics analysis. In particular, he will focus on developing computational approaches for studying the spatial and temporal dynamics of the malignant-cell immune interface.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Adi Steif</title>
-   <link href="http://shahlab.ca/stories/Adi-Steif"/>
+   <link href="http://shahlab.ca/careers/Adi-Steif"/>
    <updated>2000-01-04T00:00:00-08:00</updated>
-   <id>http://shahlab.ca/stories/Adi Steif</id>
+   <id>http://shahlab.ca/careers/Adi Steif</id>
    <content type="html">&lt;p&gt;During her PhD at UBC in Vancouver, Canada, Adi established herself as a promising cancer researcher. She made contributions to the understanding of breast cancer evolution and methods for single-cell whole genome sequencing. Adi worked with Prof John Marioni in Cambridge, UK and used her placement as a Schmidt Science Fellow to develop her skills in probabilistic modeling and machine learning.&lt;/p&gt;
 
 &lt;p&gt;Adi brought together her experience in cancer research and advances in computational approaches together to generate new insights into single-cell biology during normal development and early carcinogenesis. After completing her fellowship, Adi continues her work as a Junior Research Fellow at Trinity College, University of Cambridge.&lt;/p&gt;

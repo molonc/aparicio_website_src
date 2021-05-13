@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Research"
+description: "Shah Lab Research"
+group: navigation
+navorder: 1
+---
+{% include JB/setup %}
+{% for page in site.categories.research %}
+{% if page.research %}
+	{% assign researchpage = page %}
+{% endif %}
+{% endfor %}
+
+<div class="bigspacer"></div>
+{{ researchpage.content }}

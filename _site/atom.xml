@@ -4,7 +4,7 @@
  <title>Aparicio Lab</title>
  <link href="http://shahlab.ca/" rel="self"/>
  <link href="http://shahlab.ca"/>
- <updated>2021-05-13T12:51:52-07:00</updated>
+ <updated>2021-05-13T14:51:04-07:00</updated>
  <id>http://shahlab.ca</id>
  <author>
    <name>Dr. Samuel Aparicio</name>
@@ -652,9 +652,9 @@ To apply: Please send your Cover Letter, CV, Transcript and Work Sample to caree
  
  <entry>
    <title>benefits</title>
-   <link href="http://shahlab.ca/misc/benefits"/>
+   <link href="http://shahlab.ca/careers/misc/benefits"/>
    <updated>2017-08-12T00:00:00-07:00</updated>
-   <id>http://shahlab.ca/misc/benefits</id>
+   <id>http://shahlab.ca/careers/misc/benefits</id>
    <content type="html">
 &lt;h2 id=&quot;benefits&quot;&gt;Benefits&lt;/h2&gt;
 
@@ -664,9 +664,9 @@ To apply: Please send your Cover Letter, CV, Transcript and Work Sample to caree
  
  <entry>
    <title>careers</title>
-   <link href="http://shahlab.ca/misc/careers"/>
+   <link href="http://shahlab.ca/careers/misc/careers"/>
    <updated>2017-08-10T00:00:00-07:00</updated>
-   <id>http://shahlab.ca/misc/careers</id>
+   <id>http://shahlab.ca/careers/misc/careers</id>
    <content type="html">
 &lt;h2 id=&quot;careers&quot;&gt;Careers&lt;/h2&gt;
 
@@ -676,9 +676,9 @@ To apply: Please send your Cover Letter, CV, Transcript and Work Sample to caree
  
  <entry>
    <title>Research</title>
-   <link href="http://shahlab.ca/misc/research"/>
+   <link href="http://shahlab.ca/research/misc/research"/>
    <updated>2017-08-08T00:00:00-07:00</updated>
-   <id>http://shahlab.ca/misc/research</id>
+   <id>http://shahlab.ca/research/misc/research</id>
    <content type="html">
 &lt;h1&gt;
 	&lt;a id=&quot;Research0&quot;&gt;
@@ -970,9 +970,9 @@ The UBC Faculty of Medicine provides innovative educational and research program
  
  <entry>
    <title>Contact</title>
-   <link href="http://shahlab.ca/misc/contact"/>
+   <link href="http://shahlab.ca/contact/contact"/>
    <updated>2017-07-12T00:00:00-07:00</updated>
-   <id>http://shahlab.ca/misc/contact</id>
+   <id>http://shahlab.ca/contact/contact</id>
    <content type="html">&lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-md-3&quot; style=&quot;padding: 0.19em 0&quot;&gt;
 		&lt;img src=&quot;/assets/images/contact_page/bccancer_contact_page.jpg&quot; /&gt;

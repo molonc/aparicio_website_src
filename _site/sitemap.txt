@@ -1,22 +1,22 @@
 
 http://shahlab.ca/atom.xml
-http://shahlab.ca/categories
-http://shahlab.ca/contact
+http://shahlab.ca/misc/backup
+http://shahlab.ca/unused/categories
+http://shahlab.ca/research/
+http://shahlab.ca/contact/
 http://shahlab.ca/papers/
-http://shahlab.ca/team/
 http://shahlab.ca/blog/
 http://shahlab.ca/careers/
-http://shahlab.ca/misc/
+http://shahlab.ca/team/
 http://shahlab.ca/
-http://shahlab.ca/pages
-http://shahlab.ca/research
+http://shahlab.ca/unused/pages
 http://shahlab.ca/sitemap.txt
 http://shahlab.ca/assets/themes/lab/less/style.less
 http://shahlab.ca/assets/themes/lab/css/style.css
-http://shahlab.ca/tags
+http://shahlab.ca/unused/tags
 http://shahlab.ca/assets/css/style.css
-http://shahlab.ca/staff_Poster
 http://shahlab.ca/redirects.json
+http://shahlab.ca/trash/staff_Poster
 
 http://shahlab.ca/blog/Post1
 http://shahlab.ca/papers/32966276
@@ -45,12 +45,12 @@ http://shahlab.ca/papers/30078558
 http://shahlab.ca/papers/30067358
 http://shahlab.ca/papers/29754820
 http://shahlab.ca/papers/29044127
-http://shahlab.ca/misc/benefits
-http://shahlab.ca/misc/careers
-http://shahlab.ca/misc/research
+http://shahlab.ca/careers/misc/benefits
+http://shahlab.ca/careers/misc/careers
+http://shahlab.ca/research/misc/research
 http://shahlab.ca/misc/home
 http://shahlab.ca/misc/about
-http://shahlab.ca/misc/contact
+http://shahlab.ca/contact/contact
 http://shahlab.ca/papers/28484925
 http://shahlab.ca/papers/28440616
 http://shahlab.ca/papers/28436987

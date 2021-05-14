@@ -12,43 +12,43 @@ If you want to edit via web browser, simply navigate to the page and edit as fol
 
 ### Homepage
 
-`aparicio_website_src/index.html`: The main page and layout
-`aparicio_website_src/misc/_posts/2017-08-08-home.md`: The blurb at the top of the home page
+* `aparicio_website_src/index.html`: The main page and layout
+* `aparicio_website_src/misc/_posts/2017-08-08-home.md`: The blurb at the top of the home page
 
 ### Careers
 
-`aparicio_website_src/careers/index.html`: page and layout
-`aparicio_website_src/careers/_posts`: content.  `careers` and `benefits` are the header and footer of the page, rest are alumni stories and job openings.
+* `aparicio_website_src/careers/index.html`: page and layout
+* `aparicio_website_src/careers/_posts`: content.  `careers` and `benefits` are the header and footer of the page, rest are alumni stories and job openings.
 
 ### Research
 
-`aparicio_website_src/research/index.html`: page and layout
-`aparicio_website_src/research/_posts`: content, one big page, easily viewable and editable.
-`/Users/dalai/aparicio_website_src/assets/images/research`: images
+* `aparicio_website_src/research/index.html`: page and layout
+* `aparicio_website_src/research/_posts`: content, one big page, easily viewable and editable.
+* `/Users/dalai/aparicio_website_src/assets/images/research`: images
 
 ### Papers
 
-`aparicio_website_src/papers/index.html`: page and layout
-`aparicio_website_src/papers/_posts`: content per paper
-`aparicio_website_src/assets/images/papers`: thumbnails
-`aparicio_website_src/assets/pdfs/papers`: pdfs
+* `aparicio_website_src/papers/index.html`: page and layout
+* `aparicio_website_src/papers/_posts`: content per paper
+* `aparicio_website_src/assets/images/papers`: thumbnails
+* `aparicio_website_src/assets/pdfs/papers`: pdfs
 
 ### Teams
 
-`aparicio_website_src/team/index.html`: page and layout
-`aparicio_website_src/team/_posts`: content
-`aparicio_website_src/assets/images/team`: headshots
+* `aparicio_website_src/team/index.html`: page and layout
+* `aparicio_website_src/team/_posts`: content
+* `aparicio_website_src/assets/images/team`: headshots
 
 ### Blog
 
-`aparicio_website_src/blog/index.html`: page and layout
-`aparicio_website_src/blog/_posts`: content
+* `aparicio_website_src/blog/index.html`: page and layout
+* `aparicio_website_src/blog/_posts`: content
 
 ### Contact
 
-`aparicio_website_src/contact/index.html`: page and layout
-`aparicio_website_src/contact/_posts`: content
-`aparicio_website_src/assets/images/contact_page`: images
+* `aparicio_website_src/contact/index.html`: page and layout
+* `aparicio_website_src/contact/_posts`: content
+* `aparicio_website_src/assets/images/contact_page`: images
 
 ## Build site
 

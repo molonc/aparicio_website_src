@@ -14,6 +14,7 @@ If you want to edit via web browser, simply navigate to the page and edit as fol
 
 * `aparicio_website_src/index.html`: The main page and layout
 * `aparicio_website_src/misc/_posts/2017-08-08-home.md`: The blurb at the top of the home page
+* `aparicio_website_src/_includes/themes/lab/default.html`: Header and footer
 
 ### Careers
 
@@ -24,7 +25,7 @@ If you want to edit via web browser, simply navigate to the page and edit as fol
 
 * `aparicio_website_src/research/index.html`: page and layout
 * `aparicio_website_src/research/_posts`: content, one big page, easily viewable and editable.
-* `aparicio_website_src/assets/images/research`: images
+* `aparicio_website_src/research/images`: images
 
 ### Papers
 

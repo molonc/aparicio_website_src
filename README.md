@@ -24,7 +24,7 @@ If you want to edit via web browser, simply navigate to the page and edit as fol
 
 * `aparicio_website_src/research/index.html`: page and layout
 * `aparicio_website_src/research/_posts`: content, one big page, easily viewable and editable.
-* `/Users/dalai/aparicio_website_src/assets/images/research`: images
+* `aparicio_website_src/assets/images/research`: images
 
 ### Papers
 

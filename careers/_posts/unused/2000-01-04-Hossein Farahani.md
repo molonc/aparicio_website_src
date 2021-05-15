@@ -2,7 +2,7 @@
 layout: member
 title: Hossein Farahani
 position: Lead Machine Learning Scientist, AIM Lab, UBC
-alum: true
+alum: false
 email: 
 scholar: 
 image: /assets/images/team/Farahani-Hossein.jpeg

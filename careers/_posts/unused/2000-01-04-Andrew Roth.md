@@ -2,7 +2,7 @@
 layout: member
 title: Andrew Roth
 position: Assistant Professor, UBC
-alum: true
+alum: false
 email: 
 scholar: 
 image: /assets/images/team/Roth-Andrew.jpeg

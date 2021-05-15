@@ -2,7 +2,7 @@
 layout: member
 title: Camila de Souza
 position: Assistant Professor, Statistical and Actuarial Sciences, Western University
-alum: true
+alum: false
 email: 
 scholar: 
 image: /assets/images/team/De-Souza-Camila.jpeg

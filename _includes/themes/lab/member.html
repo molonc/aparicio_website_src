@@ -89,12 +89,23 @@
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fa fa-book fa-fw"></i>
+			<i class="fa fa-linkedin fa-fw"></i>
 			<a class="off" href="{{ member.linkedin }}" URL>{{ member.title }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
-		
+		{% if member.website %}
+		<div class="smallhead">
+			Homepage
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-external-link fa-fw"></i>
+			<a class="off" href="{{ member.website }}" URL>{{ member.websitename }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
 	</div>
 	<div class="col-md-8">
 		<div class="post">

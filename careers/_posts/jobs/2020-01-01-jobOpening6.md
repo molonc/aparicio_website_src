@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Postdoctoral fellow, Bioinformatics"
-job: true
+job: false
 category: misc
 applyLink:
 

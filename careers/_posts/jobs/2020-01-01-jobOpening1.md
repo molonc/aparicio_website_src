@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Cloud Engineer, Programmer, Architect (Microsoft Azure)"
-job: true
+job: false
 category: misc
 applyLink:
 

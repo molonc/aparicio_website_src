@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Research Asst/Tech 4"
-job: true
+job: false
 category: misc
 applyLink:
 

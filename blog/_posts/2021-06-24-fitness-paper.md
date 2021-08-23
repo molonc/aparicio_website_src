@@ -5,7 +5,13 @@ tagline: Nature paper publication from Aparicio Lab
 author_handle: Daniel Lai
 ---
 
-### From amoebas to zebras, all living things evolve. They change over time as pressures from the environment cause individuals with certain traits to become more common in a population while those with other traits become less common.
+Farhia Kabeer's thesis work has finally be published in Nature! Read the press release from [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/news/scientists-obtain-real-time-look-how-cancers-evolve) below.
+
+### Scientists obtain real-time look at how cancers evolve
+
+<img src="images/2021-06-24-fitness-paper.png" alt="" width="700"/>
+
+From amoebas to zebras, all living things evolve. They change over time as pressures from the environment cause individuals with certain traits to become more common in a population while those with other traits become less common.
 
 Cancer is no different. Within a growing tumor, cancer cells with the best ability to compete for resources and withstand environmental stressors will come to dominate in frequency. It's "survival of the fittest" on a microscopic scale.
 
@@ -51,4 +57,3 @@ Ultimately, Dr. Shah says, the goal is to one day be able to use this approach o
 
 Sohrab Salehi, Farhia Kabeer, Nicholas Ceglia, Mirela Andronescu, Marc J. Williams, Kieran R. Campbell, Tehmina Masud, Beixi Wang, Justina Biele, Jazmine Brimhall, David Gee, Hakwoo Lee, Jerome Ting, Allen W. Zhang, Hoa Tran, Ciara O’Flanagan, Fatemeh Dorri, Nicole Rusk, Teresa Ruiz de Algara, So Ra Lee, Brian Yu Chieh Cheng, Peter Eirew, Takako Kono, Jenifer Pham, Diljot Grewal, Daniel Lai, Richard Moore, Andrew J. Mungall, Marco A. Marra, Gregory J. Hannon, Giorgia Battistoni, Dario Bressan, Ian Gordon Cannell, Hannah Casbolt, Atefeh Fatemi, Cristina Jauset, Tatjana Kovačević, Claire M. Mulvey, Fiona Nugent, Marta Paez Ribes, Isabella Pearsall, Fatime Qosaj, Kirsty Sawicka, Sophia A. Wild, Elena Williams, Emma Laks, Yangguang Li, Ciara H. O’Flanagan, Austin Smith, Teresa Ruiz, Daniel Lai, Andrew Roth, Shankar Balasubramanian, Maximillian Lee, Bernd Bodenmiller, Marcel Burger, Laura Kuett, Sandra Tietscher, Jonas Windhager, Edward S. Boyden, Shahar Alon, Yi Cui, Amauche Emenari, Dan Goodwin, Emmanouil D. Karagiannis, Anubhav Sinha, Asmamaw T. Wassie, Carlos Caldas, Alejandra Bruna, Maurizio Callari, Wendy Greenwood, Giulia Lerda, Yaniv Eyal-Lubling, Oscar M. Rueda, Abigail Shea, Owen Harris, Robby Becker, Flaminia Grimaldi, Suvi Harris, Sara Lisa Vogl, Joanna Weselak, Johanna A. Joyce, Spencer S. Watson, Ignacio Vázquez-Garćıa, Simon Tavaré, Khanh N. Dinh, Eyal Fisher, Russell Kunes, Nicholas A. Walton, Mohammad Al Sa’d, Nick Chornay, Ali Dariush, Eduardo A. González-Solares, Carlos González-Fernández, Aybüke Küpcü Yoldas, Neil Millar, Tristan Whitmarsh, Xiaowei Zhuang, Jean Fan, Hsuan Lee, Leonardo A. Sepúlveda, Chenglong Xia, Pu Zheng, Andrew McPherson, Alexandre Bouchard-Côté, Samuel Aparicio, Sohrab P. Shah. **Clonal fitness inferred from time-series modelling of single-cell cancer genomes.** *Nature*, 2021; DOI: [10.1038/s41586-021-03648-3](http://dx.doi.org/10.1038/s41586-021-03648-3)
 
-From: https://www.mskcc.org/news/scientists-obtain-real-time-look-how-cancers-evolve

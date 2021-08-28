@@ -3,8 +3,8 @@ layout: post
 title: Cancer Single Cell Dynamics Observatory
 author_handle: Samuel Aparicio
 ---
-### THE BRITISH COLUMBIA CANCER SINGLE CELL DYNAMICS OBSERVATORY
-# -Fighting cancer genome variants, decoding cancer immunity-
+## THE BRITISH COLUMBIA CANCER SINGLE CELL DYNAMICS OBSERVATORY
+### -Fighting cancer genome variants, decoding cancer immunity-
 
 The last decade has seen a new revolution in biomedical technology now introducing a new era of translational research. Nowhere is this more prominent than in the field of oncology. 
 

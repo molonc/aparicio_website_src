@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Cancer Single Cell Dynamics Observatory
+tagline: A new cancer fighting initiative
 author_handle: Samuel Aparicio
 ---
+
 ## THE BRITISH COLUMBIA CANCER SINGLE CELL DYNAMICS OBSERVATORY
 ### -Fighting cancer genome variants, decoding cancer immunity-
 

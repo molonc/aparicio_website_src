@@ -1,0 +1,30 @@
+---
+layout: post
+title: RealAI Podcast with Dr. Aparicio
+tagline: Dr. Aparicio feature on recent podcast episode
+author_handle: Daniel Lai
+---
+
+Dr. Aparicio was recently interviewed in an episode of the RealAI podcast, hosted by Michael Hainsworth.  Video of the conversation is now available on [__Youtube__](https://www.youtube.com/watch?v=U97YJdoQiSs&ab_channel=MichaelHainsworth), with the accompanying [blog post](https://news.microsoft.com/en-ca/2021/08/11/real-ai-for-healthcare-with-dr-sam-aparicio-of-bc-cancer/) from Micheal below:
+
+<img src="images/2021-08-23-realai-podcast.jpg" alt="Three screenshots of Dr. Aparicio during the teleconference call" width="800"/>
+
+__By Michael Hainsworth__
+
+Real AI is being used today to help stop a killer in its tracks, one that will claim 25% of Canadians in their lifetimes. At BC Cancer in Vancouver, Doctor Sam Aparicio says he has “huge optimism” over the role artificial intelligence is playing in cancer research and precision treatment. “The applications are enormous and the ability of properly applied machine learning AI methods to tell us how to manage patients and how to select treatments, it’s just phenomenal.”
+
+After more than 100 years of searching for a single solution, advances in DNA research revealed cancer patients almost always have multiple strains of a single cancer. Tracking down every strain within a given biopsy sample proved to be impossible for a single pair of eyes to accomplish within a reasonable timeframe. Everything changed when researchers realized there was no “magic bullet” to cure the disease. Twelve years ago, the technology for decoding genomes started to become practical. “There’d been all manner of machines and devices and methods suggested for actually decoding genomes at scale,” Dr. Aparicio tells #RealAI, “but it was around 2009 that the technology matured to a point where you could actually begin to use them on the cancer problem.”
+
+The solution to decoding genomes at scale created a problem of its own: a massive amount of data. Sequencing the genome of one person generates about 100GB of data and would take your average home computer’s CPU 2,000 hours to decode. Microsoft Chief Data Scientist and Healthcare Industry Lead Dr. Helia Mohammadi breaks down the numbers: “For example, if you have 2000 core hours, it means if you have 2000 CPU’s, it will take you one hour to run the algorithm, and if you have a thousand CPU’s, it will take two hours to compute that algorithm. Now, if we want to analyze the genomes of Canadians, we would need more than 74 billion core hours, and to give you a perspective, if we had access to one million cores or CPU’s, we need about eight and a half years to process the genomes of every Canadian.”
+
+Few hospitals today own hundreds of computers that sit idle most of their day waiting to crunch research data. It’s extremely expensive to own and maintain and largely a waste of human and financial resources. Cancer research made two big leaps: into the cloud for both storage and computing power. Dr. Aparicio witnessed this major shift first-hand. “This is a really interesting trend because when we started this kind of work 20 years ago, it was still possible to have one or two desktop machines and contend with the data, and the reason is that we weren’t very good at measuring things. We didn’t have a way of decoding a whole genome. Therefore, the amount of information that we can extract from looking at cells and tissues and tumors has grown exponentially in 20 years and it’s grown in a way that has outpaced Moore’s law, and so now you really can’t just imagine for a lot of these analysis that you can do it on a desktop machine.”
+
+Single cell genomics combined with artificial intelligence has allowed Dr. Aparicio and researchers worldwide to drill down into the individual cells in a biopsy, determine which types of cancers are within it, then use AI to help understand what they’re looking at – and how to fight it. He says, “We can use techniques borrowed from AI to both look for patterns in our data, but also to understand how we might predict changes. So we’re always looking to try and learn about the structure of the disease, and we’re trying to figure out ways of predicting behavior, and AI has a big role to play in both of those things.”
+
+Real AI is being used for more than diagnosis and treatment of cancer. It’s increasingly helping run the hospital. Dr. Mohammadi says, “AI can assist in many ways within a healthcare facility, not just limited to clinical use cases and data analytics, for example, but also in operational optimization, such as hospital bed management, virtual care assistance, and many more.” During the COVID-19 pandemic, chatbots were used to triage patients, capture symptoms, book tests and vaccinations. Dr. Mohammadi adds, “the use of chat bots in general is proven to increase performance and also reduce the workloads and help the front desk and other healthcare professionals with time and also repeated questions and tasks as well.”
+
+AI can monitor for the proper use of PPE and masks, count crowds and perform medical image processing by replacing the tired eyes of a human. Even before the pandemic, fatigue has been a big challenge within the healthcare sector. Dr. Mohammadi says machine learning algorithms are helping lighten the load by drawing “attention to subtle yet very important information that may have been missed by the human experts,” adding, “physician burnout is not just limited to medical images. It can be extended to writing reports and transcribing and translating their charts to clinical patient reports, and natural language processing or NLP solutions can also decrease the burnout.”
+
+Back in Vancouver, when #RealAI asked Dr. Aparicio to describe in a single word his feelings about AI in fighting cancer?
+
+“Optimism.”

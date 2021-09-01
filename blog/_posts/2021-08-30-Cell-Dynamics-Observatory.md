@@ -8,6 +8,8 @@ author_handle: Samuel Aparicio
 ## THE BRITISH COLUMBIA CANCER SINGLE CELL DYNAMICS OBSERVATORY
 ### -Fighting cancer genome variants, decoding cancer immunity-
 
+<img src="images/2021-08-30-Cell-Dynamics-Observatory.png" alt="Prime Minister Justin Trudeau with Dr. Aparicio and Ciara O'Flanagan" width="800"/>
+
 The last decade has seen a new revolution in biomedical technology now introducing a new era of translational research. Nowhere is this more prominent than in the field of oncology. 
 
 Now emerging is a greater appreciation of the extent of cellular heterogeneity in many human malignant populations, the plasticity of its genesis and its relevance to challenging current approaches to the diagnosis and therapy of human cancers.

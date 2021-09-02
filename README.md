@@ -131,6 +131,7 @@ Specific to the Aparicio Lab, for each new paper added
 
 Known Issues:
 - It really doesn't like paper without a standard author list, such as those with Consortiums as authors.  In these case, I comment out any lines in `_scripts/paperScraper.py` that refer to author, generate a partially complete `.md` file, and manually fill in the missing elements
+- If a paper isn't on Pubmed, this will fail.  In that case, you need to manually create a `.md` file using other files as a template.
 
 ## For more information
 

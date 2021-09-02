@@ -1,7 +1,7 @@
 ---
 layout: member
 title: William Choi
-position: Co-op Student
+position: Research Assistant
 email: 
 scholar: 
 image: /assets/images/team/Choi-WoongCheol-(William).jpeg

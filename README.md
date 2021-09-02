@@ -112,22 +112,25 @@ The `layout`, `title` and `author_handle` tags are required, while `link` and `i
 
 ## Adding a new publication
 
-2021-05-13: Unsure if this still works, gotta check....
+2021-09-02: Tested to work by Daniel, thanks to Milo!
 
 Specific to the Aparicio Lab, for each new paper added
 
 1) Find the relevant entry on Pubmed, note the numerical pubmed ID
     e.g.: https://www.ncbi.nlm.nih.gov/pubmed/29449679
-2) Obtain the metadata XML from Pubmed:
-    - From the link found in 1) click the Send to in the top right
-    - Select File radio button, Format XML drop down, then Create File
-    - Insert the PubmedArticle entry into ./assets/pubmed_results.xml
-3) Download the PDF, rename and place into the assets directory:
-    e.g.: ./assets/pdfs/papers/29449679.pdf
-4) Create a image for the paper, preferably a square .png file, name and place:
-    e.g.: ./assets/images/papers/29449679.png
-5) Run the following command `bundle exec ruby _scripts/update-and-preprocess.rb` to generate a page for your paper, and then make sure it appears on the website when the site is hosted locally (use `bundle exec jekyll build && bundle exec jekyll serve` to host a local server)
+2) Run `python _scripts/paperScraper.py`
+    - Enter the PMID(s) you have found and `end` when finished
+    - For each PMID, it will download a pubmed_results.xml + generate a `.md` file (e.g. 2017-11-28-29449679.md)
+3) Move the `.md` file into `papers/_posts` with all the other ones
+4) Create a image for the paper, its location needs to match the `image:` value in the newly created `.md` file:
+    e.g. image: /assets/images/papers/29449679.jpg
+5) Optionally, if you want a PDF, manually add the PDF line to the `.md` file anywhere in the header block:
+    e.g. pdf: ./assets/pdfs/papers/29449679.pdf
+    Ensure you download and insert the corresponding PDF into the specified location
 6) If the local server's website looks okay, commit your changes and push to production
+
+Known Issues:
+- It really doesn't like paper without a standard author list, such as those with Consortiums as authors.  In these case, I comment out any lines in `_scripts/paperScraper.py` that refer to author, generate a partially complete `.md` file, and manually fill in the missing elements
 
 ## For more information
 

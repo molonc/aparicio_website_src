@@ -4,7 +4,7 @@ title: Esther Kong
 position: Clinical Research Coordinator
 email: 
 scholar: 
-image: /assets/images/team/Kong-Esther.jpeg
+image: /assets/images/team/Kong-Esther.jpg
 cv: 
 BioSketch: 
 alum: false

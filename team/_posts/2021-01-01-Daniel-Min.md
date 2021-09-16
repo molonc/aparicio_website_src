@@ -4,7 +4,7 @@ title: Daniel Min
 position: Software Engineer
 email: 
 scholar: 
-image: /assets/images/team/Min-Daniel.jpeg
+image: /assets/images/team/Min-Daniel.jpg
 LinkedIn: https://www.linkedin.com/in/daniel-min-75631b115/
 Github: https://github.com/danielm710
 cv: 

@@ -4,7 +4,7 @@ title: Vincent Briane
 position: Postdoctoral Fellow
 email: 
 scholar: 
-image: /assets/images/team/Briane-Vincent.jpeg
+image: /assets/images/team/Briane-Vincent.jpg
 cv: 
 BioSketch: 
 alum: false

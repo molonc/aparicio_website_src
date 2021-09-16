@@ -7,6 +7,32 @@ navorder: 5
 ---
 {% include JB/setup %}
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.columnthird {
+  float: left;
+  width: 33%;
+  padding: 10px;
+}
+
+.columnhalf {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
 <div class="bigspacer"></div>
 <div>
 {% for member in site.categories.team reversed %}
@@ -32,48 +58,76 @@ navorder: 5
 
 <hr />
 
-<div class="bigtitle text-center">Social Outings</div>
+<div class="bigtitle text-center">Life in the Lab</div>
 <div class="bigspacer"></div>
 
 <div style="max-width: 931px; margin: auto;">
-	<div>
-		<img width="931" src="/assets/images/team/2019_12_party.jpg">
-		<p class="note">2018 - Vancouver Holiday Party</p>
+
+	<div class="row">
+		  <div class="columnhalf">
+	  			<img width="100%" src="/assets/images/team/events/2021-09-08.jpg">
+			  <p class="note">2021 September - Vaccinated Gatherings</p>
+		  </div>
+		  <div class="columnhalf">
+	  			<img width="100%" src="/assets/images/team/events/2021-09-15.jpg">
+		  </div>
 	</div>
 
-	<div class="bigspacer"></div>
+	<div class="row">
+		  <div class="columnhalf">
+				<img width="100%" src="/assets/images/team/events/2020-07-24.jpg">
+				<p class="note">2020/2021 Summer - Outdoor Socially Distanced Gatherings</p>
+
+		  </div>
+		  <div class="columnhalf">
+				<img width="100%" src="/assets/images/team/events/2021-06-25.jpg">
+		  </div>
+	</div>
+
+	<div class="row">
+		  <div class="columnhalf">
+	  			<img width="100%" src="/assets/images/team/events/2020-02-04.jpg">
+				<p class="note">2020 February - Cubicle Life</p>		  	
+		  </div>
+		  <div class="columnhalf">
+	  			<img width="100%" src="/assets/images/team/events/2021-08-30.jpg">
+				<p class="note">2020/2021 - Work From Home Life</p>
+		  </div>
+	</div>
+	<div>
+		<img width="100%" src="/assets/images/team/events/2020-02-03.jpg">
+		<p class="note">2020 February BC Cancer Rooftop - "Calm before the storm"</p>
+	</div>
+
+	<div class="row">
+		  <div class="columnhalf">
+	  			<img width="100%" src="/assets/images/team/events/2020-02-25.jpg">
+				<p class="note">2020 Winter - Lab Lunch</p>
+		  </div>
+
+		  <div class="columnhalf">
+	  			<img width="100%" src="/assets/images/team/events/2020-02-07.jpg">
+				<p class="note">2020 Winter - Weekly Team Lunch</p>		  	
+		  </div>
+	</div>
 
 	<div>
-		<img width="931" src="/assets/images/team/2017-SummerBBQ.jpg">
-		<p class="note">2017 - Summer Barbecue</p>
+		<img width="100%" src="/assets/images/team/events/2019-12-20.jpg">
+		<p class="note">2019 December - Departmental Holiday Party</p>
+	</div>
+
+	<div>
+		<img width="100%" src="/assets/images/team/events/2018_12_party.jpg">
+		<p class="note">2018 December - Departmental Holiday Party</p>
+	</div>
+
+	<div>
+		<img width="100%" src="/assets/images/team/events/2017-SummerBBQ.jpg">
+		<p class="note">2017 July - Summer Barbecue</p>
 	</div>
 
 </div>
 
 <hr />
-<!--
-<div class="bigtitle text-center">Alumni</div>
-<div class="bigspacer"></div>
 
-{% for member in site.categories.team reversed %}
-	{% if member.alum == true %}
-		{% cycle 'add alum rows': '<div class="row">', '', '' %}
-			<div class="col-md-4 memberbox">
-				<div class="media">
-					<a class="pull-left" href="{{ member.url }}">
-						<img width="150" class="media-object" src="{{ member.image }}">
-					</a>
-					<div class="media-body">
-						<div class="head media-heading"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
-						<p class="note">{{ member.position }}</p>
-						<p class="note"><a href="{{ member.link }}" class="off">{{ member.current }}</a></p>
-					</div>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="bigspacer"></div>
-			</div>
-		{% cycle 'close alum rows': '', '', '</div>' %}
-	{% endif %}
-{% endfor %}
--->
 <div class="bigspacer"></div>

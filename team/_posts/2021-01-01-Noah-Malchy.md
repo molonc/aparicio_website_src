@@ -4,7 +4,7 @@ title: Noah Malchy
 position: Software Engineer
 email: 
 scholar: 
-image: /assets/images/team/Malchy-Noah.jpeg
+image: /assets/images/team/Malchy-Noah.jpg
 cv: 
 BioSketch: 
 alum: false

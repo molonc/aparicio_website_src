@@ -4,7 +4,7 @@ title: Benoit Prevost-Potvin
 position: Software Architect
 email: 
 scholar: 
-image: /assets/images/team/Prevost-Potvin-Benoit.jpeg
+image: /assets/images/team/Potvin-Benoit.jpg
 cv: 
 BioSketch: 
 alum: false

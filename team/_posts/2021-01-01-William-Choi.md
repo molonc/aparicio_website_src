@@ -4,7 +4,7 @@ title: William Choi
 position: Research Assistant
 email: 
 scholar: 
-image: /assets/images/team/Choi-WoongCheol-(William).jpeg
+image: /assets/images/team/Choi-William.jpg
 cv: 
 linkedin: https://www.linkedin.com/in/wchoi1/
 BioSketch: 
